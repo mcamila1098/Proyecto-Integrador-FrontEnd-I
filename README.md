@@ -1,6 +1,6 @@
-Hola, este es mi resultado final para el proyecto integrado de la materia Front End I, mi desafio consiste de:
+Hola! este es mi resultado final para el proyecto integrado de la materia Front End I, mi desafio consiste de:
 
-## El reto
+### El reto
 
 Su desafío es crear esta página de destino y hacer que se parezca lo más posible al diseño.
 
@@ -18,7 +18,7 @@ Sus usuarios deberían poder:
          -Pseudoelementos y Pseudoclases 
          -(opcional) ---> Pequeñas animaciones
 
-## Dónde encontrar todo
+### Dónde encontrar todo
 
 Su tarea es construir el proyecto con los diseños dentro de la carpeta `/ diseño`. Encontrará una versión móvil y de escritorio del diseño.
 
@@ -30,7 +30,7 @@ Encontrará todos los recursos necesarios en la carpeta `/ imagenes`. Los activo
 
 También hay un archivo `style-guide.md` que contiene la información necesaria, como la paleta de colores y las fuentes.
 
-## Construyendo tu proyecto
+### Construyendo tu proyecto
 
 No dude en utilizar cualquier flujo de trabajo con el que se sienta cómodo. A continuación se muestra un proceso sugerido: 
 
@@ -40,6 +40,3 @@ No dude en utilizar cualquier flujo de trabajo con el que se sienta cómodo. A c
 4. Comience a agregar estilos en la parte superior de la página y continúe hacia abajo.
 5. Deje comentarios en el codigo en caso que lo crea necesario
 
-## Envío de su solución
-
-Envíe su solución en el google forms adjunto en PG, por favor adjuntar un archivo ZIP.
